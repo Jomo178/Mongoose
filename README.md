@@ -1,8 +1,8 @@
 # Get data from Mongodb
 
 # Npm to Download
-*mongoose
-*express
+mongoose
+express
 
 # Things to do
 *You need your Mongodb database link and your modules.
